@@ -32,7 +32,8 @@ const Header = () => {
                     data-aos-duration="2500"
                 >
                     <span className={styles.subtext}>
-                        Welcome to NEURA AI, MIT BLR&apos;s Largest Professional AI/ML/DL/ Data Science Community
+                        Welcome to MBOSC, MAHE BLR&apos;s own Open Source
+                        Community
                     </span>
                     <span>
                         Join us in this two-day-long virtual extravaganza
